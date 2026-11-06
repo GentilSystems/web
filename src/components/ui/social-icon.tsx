@@ -3,7 +3,7 @@ import { Button } from "@/components/ui/button";
 const ButtonSocialIconDemo = () => {
   const socialLinks = {
     google: "https://g.dev/ethancollins",
-    github: "https://github.com/NissanArmada",
+    github: "https://github.com/GentilSystems",
     linkedin: "https://linkedin.com/in/ethan-n-collins",
     email: "mailto:eencollins@gmail.com"
   };
